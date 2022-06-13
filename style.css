@@ -1,0 +1,120 @@
+body{
+	color: darkred;
+	font: normal 16px Arial, HElvetica, sans-serif;
+	line-height:1.6em;
+
+}
+.flex-container {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: coral;
+	justify-content: center;
+	align-content: center;
+
+}
+.flex-container > div {
+	background-color: #f1f1f1;
+	margin: 10px;
+	color: #333;
+	padding: 15px 10px;
+	font-size: 20px;
+}
+.button{
+	background-color: #333;
+	color: #fff;
+	padding: 10px 20px;
+	border: none;
+
+}
+.button:hover{
+	background-color: red;
+	color: #fff;
+}
+
+
+.categories{
+  /*	border: 20px blue solid;*/
+	color: black;
+	padding: 10px;
+	border-radius: 15px;
+
+}
+
+.categories h2{
+	text-align: center;
+}
+.categories ul{
+	padding: auto;
+	list-style: sidama;
+}
+.categories li{
+	padding: 6px;
+	color: black;
+	border-bottom:dotted 1px #333;
+	
+}
+
+/*.box-1{
+	background-color: #333;
+	color: #333;
+
+	border: 5px red solid;
+	border-bottom-width: 10px;
+
+	padding: 20px;
+
+}
+
+.box-1 h1{
+	font-family: Tahoma;
+	font-weight: 800;
+	font-style: italic;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+.box-2{
+	background-color: #fff;
+	color: black;
+	border: 5px #333 solid;
+	padding: 20px;
+	margin: 20px;
+
+}
+
+.box-2 h1{
+	font font-family: sans-serif;
+	font-weight: bold;
+
+}
+
+.my-form{
+	padding: 20px;
+}
+.my-form .form-group{
+	padding border-bottom: 15px;
+}
+.my-form label{
+	display: block; 
+
+}
+.form-group input[type="text"], .my-form textarea{
+	padding: 8px;
+	width: 100%;
+}
+.block{
+	float:left;
+	width:33.3%;
+	border: 1px black solid;
+	box-sizing: border-box;
+	padding: 10px;
+
+}
+.clr{
+	clear: ;
+}
+.p-box{
+	padding: 10px;
+	border: 10px solid #333;
+} */
+
